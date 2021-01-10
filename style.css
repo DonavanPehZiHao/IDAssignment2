@@ -1,0 +1,22 @@
+body {
+    background-image:url("https://i.pinimg.com/originals/8b/2a/5b/8b2a5b8c4339cf45660dbbf5a17ea5c9.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+nav {
+    background-image:url("https://i.pinimg.com/originals/8b/2a/5b/8b2a5b8c4339cf45660dbbf5a17ea5c9.png");
+}
+
+table {
+    width:1250px;
+    margin:25px auto;
+}
+
+@media screen and (max-width:370px) {
+    table {
+        width:250px;
+        margin:25px auto;
+    }
+    
+}
